@@ -1,7 +1,7 @@
 # SmartHome System
 
 <p align="center"> 	This project was part of the Analysis and Design of Information Systems course at NTUA. (2022-23, Fall Semester) <p>
-
+An IoT live streaming system for smart homes, leveraging artificial data inspired by real-world scenarios. The system stores data in the OpenTSDB - a time series database- while performing aggregations. Users can monitor the system using an open-source visualization platform, which presents data through various informative graphs.
 
 ## IoT-Live-streaming ~ TEAM 10
 <p align="center">
